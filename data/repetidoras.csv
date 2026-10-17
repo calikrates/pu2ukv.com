@@ -1,0 +1,153 @@
+saida_mhz,offset_mhz,tom,cidade,indicativo,dist_km
+146.650,-0.6,103.5,Aldeia da Serra,n/d,11
+439.475,-5,67.0,São Paulo (Pal. Bandeirantes),PY2KMA,11
+439.050,-5,67.0,São Paulo (Taipas),PY2KRB,13
+145.430,-0.6,D-STAR,Itapevi,PY2KBH,14
+439.325,-5,103.5,São Paulo (Av. Paulista),PY2UNO,15
+145.330,-0.6,DMR CC1,São Paulo,PY2KMA,16
+145.350,-0.6,67.0,São Paulo,PY2KBD,16
+147.360,+0.6,DMR CC1,São Paulo,PY2KSM,16
+439.375,-5,123.0,São Paulo,PY2RCA,16
+439.575,-5,127.3,São Paulo,PY2APU,16
+439.650,-5,123.0,Caieiras,PY2KPE,20
+147.390,+0.6,123.0,São Paulo (Interlagos),n/d,21
+146.610,-0.6,123.0,Itapecerica da Serra,PY2KBX (LABRE-SP),22
+147.030,+0.6,127.3,Mairiporã (Cantareira),PY2APU,23
+147.270,+0.6,67.0,Mairiporã (Cantareira),PY2KNF,23
+147.060,+0.6,123.0,São Paulo (Carrão),PY2AA,26
+145.250,-0.6,123.0,Mairiporã,PY2LSP,31
+147.180,+0.6,D-STAR,Mairiporã,PY2KRJ,31
+439.700,-5,67.0,Mairiporã,PY2APU,31
+147.000,+0.6,123.0,Mauá,PY2KEK,37
+147.300,+0.6,DMR CC1,Jundiaí,PY2KSP,39
+438.500,-5,74.4,Jundiaí,PY2KET,39
+145.270,-0.6,123.0,Cabreúva,PY2KSC,42
+146.770,-0.6,Sem tom,Cubatão,PY2KBI,54
+439.875,-5,123.0,Nazaré Paulista,PY2KEP,56
+147.330,+0.6,74.4,Vinhedo,PY2KDO,59
+145.490,-0.6,100.0,Mogi das Cruzes,PY2KES,61
+146.730,-0.6,136.5,Mogi das Cruzes,PY2KMX,61
+146.830,-0.6,82.5,Valinhos,PY2KLM,66
+145.410,-0.6,123.0,Piedade,PY2KPP,68
+146.710,-0.6,Sem tom,Sorocaba,PY2TOH,68
+147.240,+0.6,Sem tom,Sorocaba,PY2KPR,68
+439.450,-5,123.0,Sorocaba,PY2KPR,68
+146.810,-0.6,82.5,Campinas,PY2KAB,74
+439.150,-5,82.5,Campinas,PY2FBI,74
+439.500,-5,82.5,Campinas,PY2KKK,74
+439.800,-5,79.7,Campinas,PY2KFI,74
+145.310,-0.6,103.5,Joanópolis,PY2KGV,85
+146.870,-0.6,82.5,Extrema/MG,PY4FA,90
+439.125,-5,91.5,Extrema/MG,PY4RE,90
+145.470,-0.6,Sem tom,Amparo,PY2KDS,92
+147.000,+0.6,82.5,Amparo,PY2FII,92
+146.930,-0.6,79.7,Jaguariúna,PY2KBC,95
+146.910,-0.6,82.5,Serra Negra,PY2KAM,103
+146.770,-0.6,74.4,Americana,PY2KJZ,104
+145.230,-0.6,D-STAR,Artur Nogueira,PY2KCA,114
+145.450,-0.6,67.0,Paraibuna,PY2KCR,116
+146.710,-0.6,82.5,Mogi Mirim,PY2KAC,124
+145.200,-0.6,Sem tom,Monte Sião/MG,PY4RMS,124
+146.630,-0.6,77.0,Piracicaba,PY2KDG,125
+146.790,-0.6,Sem tom,Córrego do Bom Jesus/MG,PY4RIM,127
+146.750,-0.6,67.0,Bueno Brandão/MG,PY4RBB,129
+146.770,-0.6,71.9,Taubaté,PY2KAP,137
+145.290,-0.6,67.0,Jacutinga/MG,PY4RTR,139
+145.410,-0.6,77.0,Jacutinga/MG,PY4RJB,139
+145.490,-0.6,88.5,Esp. Santo do Pinhal,PY2ASP,149
+146.890,-0.6,79.7,Pindamonhangaba,PY2KAS,152
+146.730,-0.6,77.0,São Pedro,PY2KDV,158
+145.370,-0.6,82.5,Águas da Prata,PY2KSS,177
+145.450,-0.6,77.0,Botucatu,PY2KDK,183
+146.690,-0.6,97.4,Itajubá/MG (Pico dos Dias),PY4RIT,184
+145.470,-0.6,67.0,Cajati,PY2KEV,191
+146.950,-0.6,Sem tom,Delfim Moreira/MG,PY4ATQ,192
+145.350,-0.6,77.0,Itatinga,PY2KAD,193
+146.610,-0.6,D-STAR,Poços de Caldas/MG,PY4RFM,195
+146.650,-0.6,77.0,São Carlos,PY2KFD,202
+146.790,-0.6,Sem tom,São Carlos,PY2KCI,202
+146.650,-0.6,67.0,Natércia/MG,PY4RMG,204
+145.210,-0.6,74.4,Sta Rita do Passa Quatro,PY2KSR,214
+146.850,-0.6,Sem tom,Cruzeiro,PY2KBL,215
+145.230,-0.6,88.5,Paraty/RJ,PY1MBU,215
+145.330,-0.6,123.0,Itapeva,PY2KBS,219
+145.390,-0.6,77.0,Itapeva,PY2KRU,219
+145.350,-0.6,103.5,Serrania/MG,PY4SER,234
+146.610,-0.6,91.5,Apiaí,PY2JZW,235
+146.690,-0.6,77.0,Araraquara,PY2KOQ,240
+146.830,-0.6,77.0,Alfenas/MG,PY4KTD,249
+147.060,+0.6,110.9,Adrianópolis/PR,PY5TEP,256
+146.710,-0.6,Sem tom,Angra dos Reis/RJ,PY1JBW,259
+145.270,-0.6,Sem tom,Varginha/MG,PY4RPU,261
+145.490,-0.6,Sem tom,Piraju,PY2KAG,267
+146.850,-0.6,Sem tom,Bauru,PY2KAH,269
+145.370,-0.6,Sem tom,Fartura,PY2KAE,278
+146.670,-0.6,82.5,Ribeirão Preto,PY2KAR,282
+146.750,-0.6,Sem tom,Barra Mansa/RJ,PY1LAC,290
+146.930,-0.6,Sem tom,Volta Redonda/RJ,PY1VRD,297
+145.430,-0.6,100.0,Jaboticabal,PY2KDD,298
+145.250,-0.6,110.9,Morretes/PR,PY5MOR,299
+145.210,-0.6,110.9,Campina Gde do Sul/PR,PY5CTV,302
+145.490,-0.6,110.9,Campina Gde do Sul/PR,PY5RCM,302
+145.430,-0.6,88.5,Ribeirão Claro/PR,PY5VET,306
+146.670,-0.6,Sem tom,Lavras/MG,PY4RSB,313
+146.670,-0.6,110.9,Colombo/PR,PY5COL,314
+147.210,+0.6,110.9,Alm. Tamandaré/PR,PY5ART,324
+145.470,-0.6,Sem tom,Barra do Piraí/RJ,PY1LMC,325
+145.450,-0.6,Sem tom,Curitiba/PR,PY5GWR,328
+146.340,+0.6,Sem tom,Curitiba/PR,PY5RPY,328
+146.770,-0.6,110.9,Curitiba/PR,PY5TEL,328
+147.000,+0.6,82.5,Curitiba/PR,PY5STC,328
+438.900,-5,Sem tom,Curitiba/PR,PY5RER,328
+147.090,+0.6,110.9,Campo Magro/PR,PY5PRD,338
+146.100,+0.6,Sem tom,Piraí do Sul/PR,PY5PGO,339
+146.890,-0.6,100.0,Rio de Janeiro (Mendanha),PY1LAE,344
+146.830,-0.6,Sem tom,Garuva/SC,PP5CRE,347
+146.730,-0.6,88.5,Rio de Janeiro (Jacarepaguá),PY1JPA,355
+146.180,+0.6,Sem tom,Andirá/PR,PY5AME,355
+145.210,-0.6,Sem tom,Miguel Pereira/RJ,PY1MPM,360
+145.470,-0.6,82.5,Formiga/MG,PY4RAB,369
+146.050,+0.6,Sem tom,Carambeí/PR,PY5RPT,371
+146.630,-0.6,Sem tom,São João del Rei/MG,PY4RCV,372
+147.030,+0.6,88.5,Rio de Janeiro,PY1ABA,373
+439.475,-5,DMR CC1,Rio de Janeiro,PY1OAB,373
+145.370,-0.6,Sem tom,Ponta Grossa/PR,PY5PYY,383
+146.870,-0.6,Sem tom,Ponta Grossa/PR,PY5PGR,383
+145.410,-0.6,Sem tom,Tibagi/PR,PY5TBG,383
+145.370,-0.6,Sem tom,Niterói/RJ,PY1GVI,384
+146.690,-0.6,100.0,Niterói/RJ,PY1GRO,384
+146.870,-0.6,88.5,Niterói/RJ,PY1NIT,384
+146.850,-0.6,74.4,Carmo da Mata/MG,PY4RDV,385
+145.490,-0.6,110.9,Petrópolis/RJ,PY1AAF,386
+147.030,+0.6,100.0,Cedral,PY2KPG,388
+146.710,-0.6,Sem tom,São Gonçalo/RJ,PY1LFC,390
+145.470,-0.6,88.5,Cornélio Procópio/PR,PY5CPR,396
+147.300,+0.6,71.9,S. J. do Rio Preto,PY2FEJ,402
+439.125,-5,71.9,S. J. do Rio Preto,PY2FJE,402
+146.850,-0.6,Sem tom,Juiz de Fora/MG,PY4AJF,404
+146.630,-0.6,Sem tom,Teresópolis/RJ,PY1LAG,410
+146.650,-0.6,67.0,Teresópolis/RJ,PY1TPS,410
+146.830,-0.6,100.0,Teresópolis/RJ,PY1SVL,410
+146.750,-0.6,Sem tom,Divinópolis/MG,PY4REP,425
+146.710,-0.6,Sem tom,Ortigueira/PR,PY5RPB,430
+145.210,-0.6,151.4,Uberaba/MG,PY4UAU,437
+146.650,-0.6,Sem tom,Tanabi,PY2KBM,438
+146.610,-0.6,77.0,Itaúna/MG,PY4RTM,448
+145.350,-0.6,Sem tom,Nova Friburgo/RJ,PY1MAC,458
+145.470,-0.6,Sem tom,Nova Friburgo/RJ,PY1APG,458
+145.390,-0.6,82.5,Ouro Branco/MG,PY4RLA,463
+145.230,-0.6,Sem tom,Onça de Pitangui/MG,PY4FYR,469
+146.770,-0.6,110.9,Apucarana/PR,PY5APU,476
+146.690,-0.6,Sem tom,Votuporanga,PY2KAZ,477
+145.330,-0.6,Sem tom,Itabirito/MG,PY4RPE,478
+145.470,-0.6,88.5,Ubá/MG,PY4RUB,478
+145.430,-0.6,71.9,Cordeiro/RJ,PY1SCF,484
+146.790,-0.6,Sem tom,Adamantina,PY2KAN,485
+145.430,-0.6,Sem tom,Contagem/MG,PY4RPL,490
+145.310,-0.6,Sem tom,Mariana/MG,PY4RMO,493
+145.210,-0.6,Sem tom,Belo Horizonte/MG,PY4RPJ,498
+145.350,-0.6,Sem tom,Belo Horizonte/MG,PY4RPS,498
+146.730,-0.6,Sem tom,Belo Horizonte/MG,PY4ROP,498
+146.770,-0.6,Sem tom,Belo Horizonte/MG,PY4RHC,498
+146.870,-0.6,Sem tom,Belo Horizonte/MG,PY4RVM,498
+145.330,-0.6,Sem tom,Flórida Paulista,PY2KNH,498

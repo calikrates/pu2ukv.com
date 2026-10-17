@@ -1,0 +1,17 @@
+:root { --md-code-font: "JetBrains Mono", monospace; }
+.md-typeset table:not([class]) { font-size: .78rem; }
+.md-typeset table:not([class]) td strong { color: var(--md-accent-fg-color); }
+.filtro {
+  width: 100%; padding: .6rem .8rem; margin: .4rem 0 1rem;
+  border: 1px solid var(--md-default-fg-color--lightest); border-radius: 6px;
+  background: var(--md-code-bg-color); color: var(--md-default-fg-color); font-size: .8rem;
+}
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr)); gap: 1rem; }
+.cards a.card {
+  display: block; padding: 1rem; border-radius: 8px; text-decoration: none;
+  border: 1px solid var(--md-default-fg-color--lightest); color: inherit;
+}
+.cards a.card:hover { border-color: var(--md-accent-fg-color); }
+.cards .card strong { display: block; font-size: .95rem; margin-bottom: .3rem; }
+.md-typeset table:not([class]) td, .md-typeset table:not([class]) th { padding: .45em .8em; white-space: nowrap; }
+.md-typeset table:not([class]) td:nth-child(5) { white-space: normal; }

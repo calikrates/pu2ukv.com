@@ -1,0 +1,70 @@
+site_name: PU2UKV
+site_description: Caderneta de campo — radioamadorismo, overland e camping
+site_url: https://pu2ukv.com/
+copyright: 73 de PU2UKV · conteúdo livre para uso pessoal, cite a fonte
+
+theme:
+  name: material
+  language: pt-BR
+  icon:
+    logo: material/radio-tower
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Modo claro
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Modo escuro
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+nav:
+  - Início: index.md
+  - Radioamador:
+      - Código Q: radioamador/codigo-q.md
+      - Alfabeto fonético e Morse: radioamador/alfabeto-fonetico.md
+      - Repetidoras da região: radioamador/repetidoras.md
+      - Programar o HT: radioamador/programar-ht.md
+  - Overland:
+      - Rádio em trilha: overland/radio-em-trilha.md
+      - Checklist de viagem 4x4: overland/checklist-4x4.md
+  - Sobre: sobre.md
+
+hooks:
+  - hooks/repetidoras.py
+
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/filtro.js
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
