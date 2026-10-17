@@ -69,3 +69,27 @@
 .md-typeset .hero .md-button { color: #fff3e0; border-color: #ffc857; }
 .md-typeset .hero .md-button--primary { background: #f28f3b; border-color: #f28f3b; color: #24121f; }
 .md-typeset .hero .md-button:hover { background: #ffc857; border-color: #ffc857; color: #24121f; }
+
+/* ---------- Busca de repetidoras ---------- */
+.rep-app { margin: 1.2rem 0; padding: 1rem 1.1rem; border-radius: 10px;
+  border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-accent-fg-color--transparent); }
+.rep-ctrl { display: flex; flex-wrap: wrap; gap: .8rem 1.2rem; align-items: flex-end; }
+.rep-ctrl label { display: flex; flex-direction: column; font-size: .7rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .06em; color: var(--md-accent-fg-color); gap: .3rem; }
+.rep-ctrl select { font-size: .85rem; padding: .45rem .6rem; border-radius: 6px; min-width: 9rem;
+  border: 1px solid var(--md-default-fg-color--lighter); background: var(--md-default-bg-color); color: var(--md-default-fg-color); }
+#rep-regiao { min-width: 16rem; }
+.md-typeset .rep-ctrl .md-button { margin: 0; padding: .45em 1em; font-size: .75rem; }
+.rep-app .filtro { margin: 1rem 0 .4rem; }
+.rep-resumo { font-size: .8rem; margin: .2rem 0 .6rem; color: var(--md-default-fg-color--light); }
+.rep-tabela { overflow-x: auto; }
+.md-typeset .rep-tabela table { display: table; width: 100%; font-size: .78rem; border-collapse: collapse; }
+.md-typeset .rep-tabela th { text-align: left; padding: .5em .8em; white-space: nowrap;
+  background: var(--md-accent-fg-color--transparent); }
+.md-typeset .rep-tabela td { padding: .45em .8em; white-space: nowrap; border-top: 1px solid var(--md-default-fg-color--lightest); }
+.md-typeset .rep-tabela td:nth-child(5) { white-space: normal; }
+.md-typeset .rep-tabela tr.vhf td strong { color: var(--md-accent-fg-color); }
+.md-typeset .rep-tabela tr.uhf td strong { color: #e86a8a; }
+.md-typeset .rep-tabela td:last-child { text-align: right; }
+@media (max-width: 600px) { #rep-regiao { min-width: 100%; } .rep-ctrl label:first-child { width: 100%; } }
+@media (max-width: 600px) { .md-typeset .rep-tabela td:nth-child(5) { white-space: nowrap; } }
