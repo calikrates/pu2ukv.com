@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 66 640 670">
+  <defs>
+    <linearGradient id="ouro" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe7a3"/><stop offset=".45" stop-color="#ffc857"/><stop offset="1" stop-color="#c98a2a"/>
+    </linearGradient>
+    <linearGradient id="ceu" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1f3b"/><stop offset=".55" stop-color="#5a2f5e"/><stop offset="1" stop-color="#c8553d"/>
+    </linearGradient>
+    <linearGradient id="campo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6e2f45"/><stop offset="1" stop-color="#2a1426"/>
+    </linearGradient>
+    <linearGradient id="fita" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a2442"/><stop offset="1" stop-color="#2a1426"/>
+    </linearGradient>
+    <clipPath id="escudo">
+      <path d="M230 200 H570 V480 C570 600 485 668 400 712 C315 668 230 600 230 480 Z"/>
+    </clipPath>
+    
+  </defs>
+
+  <g>
+    <!-- raios cruzados atrás do escudo -->
+    <g fill="url(#ouro)" stroke="#8a5a1a" stroke-width="2.5" stroke-linejoin="round">
+      <path id="raioE" d="M92 140 L212 236 L188 248 L300 340 L160 262 L184 250 Z"/>
+      <use href="#raioE" transform="translate(800 0) scale(-1 1)"/>
+    </g>
+
+    <!-- borda do escudo -->
+    <path d="M218 188 H582 V482 C582 612 492 684 400 728 C308 684 218 612 218 482 Z" fill="url(#ouro)" stroke="#8a5a1a" stroke-width="2"/>
+
+    <!-- campo do escudo -->
+    <g clip-path="url(#escudo)">
+      <rect x="220" y="190" width="360" height="260" fill="url(#ceu)"/>
+      <rect x="220" y="430" width="360" height="300" fill="url(#campo)"/>
+
+      <!-- Cruzeiro do Sul -->
+      <g fill="#fff3c4">
+        <circle cx="282" cy="236" r="4.2"/><circle cx="282" cy="296" r="5"/>
+        <circle cx="258" cy="268" r="3.6"/><circle cx="304" cy="262" r="3.8"/><circle cx="293" cy="279" r="2.2"/>
+      </g>
+      <g fill="#fff" opacity=".6">
+        <circle cx="520" cy="230" r="1.6"/><circle cx="548" cy="270" r="1.2"/><circle cx="500" cy="300" r="1.1"/>
+      </g>
+
+      <!-- sol se pondo -->
+      <circle cx="400" cy="440" r="70" fill="#ffc857" opacity=".35"/>
+      <circle cx="400" cy="440" r="42" fill="#ffd27a" opacity=".9"/>
+
+      <g transform="translate(0 26)">
+      <!-- torre treliçada -->
+      <g stroke="#24121f" stroke-width="5" fill="none" stroke-linejoin="round">
+        <path d="M370 436 L400 262 L430 436"/>
+        <path d="M374 412 L424 380 M426 412 L376 380 M379 380 L420 348 M421 380 L380 348 M384 348 L416 318 M416 348 L384 318 M389 318 L411 290 M411 318 L389 290"/>
+      </g>
+      <circle cx="400" cy="256" r="8" fill="#ff4d4d"/>
+      <!-- ondas -->
+      <g fill="none" stroke="url(#ouro)" stroke-width="6" stroke-linecap="round">
+        <path d="M368 232 A45 45 0 0 1 432 232"/>
+        <path d="M346 210 A78 78 0 0 1 454 210" opacity=".75"/>
+      </g>
+
+      </g>
+
+      <!-- faixa ondulada (onda de rádio) -->
+      <path d="M220 452 Q245 432 270 452 T320 452 T370 452 T420 452 T470 452 T520 452 T570 452 T620 452 V482 Q595 502 570 482 T520 482 T470 482 T420 482 T370 482 T320 482 T270 482 T220 482 Z" fill="url(#ouro)" stroke="#8a5a1a" stroke-width="1.5"/>
+
+      <!-- serra e estrada -->
+      <path d="M220 560 L280 515 L330 548 L390 505 L450 552 L505 518 L580 560 V730 H220 Z" fill="#3a1d33"/>
+      <path d="M220 600 L300 572 L370 598 L440 566 L520 598 L580 580 V730 H220 Z" fill="#24121f"/>
+      <path d="M352 730 C365 670 420 650 432 612 L446 612 C442 655 400 680 410 730 Z" fill="#c8553d"/>
+      <path d="M381 730 C390 680 430 660 439 614" fill="none" stroke="#ffe7a3" stroke-width="3" stroke-dasharray="10 8"/>
+    </g>
+
+    <!-- contorno interno -->
+    <path d="M230 200 H570 V480 C570 600 485 668 400 712 C315 668 230 600 230 480 Z" fill="none" stroke="#8a5a1a" stroke-width="2"/>
+
+    <!-- coroa: antena Yagi -->
+    <g>
+      <rect x="395" y="128" width="10" height="64" fill="url(#ouro)" stroke="#8a5a1a" stroke-width="1.5"/>
+      <rect x="250" y="122" width="300" height="12" rx="6" fill="url(#ouro)" stroke="#8a5a1a" stroke-width="1.5"/>
+      <g fill="url(#ouro)" stroke="#8a5a1a" stroke-width="1.5">
+        <rect x="262" y="80" width="10" height="96" rx="4"/>
+        <rect x="312" y="88" width="10" height="80" rx="4"/>
+        <rect x="362" y="92" width="10" height="72" rx="4"/>
+        <rect x="428" y="96" width="10" height="64" rx="4"/>
+        <rect x="478" y="100" width="10" height="56" rx="4"/>
+        <rect x="528" y="104" width="10" height="48" rx="4"/>
+      </g>
+      <circle cx="400" cy="128" r="11" fill="#c8553d" stroke="#8a5a1a" stroke-width="2"/>
+    </g>
+
+  </g>
+
+</svg>

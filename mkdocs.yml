@@ -6,9 +6,8 @@ copyright: 73 de PU2UKV · conteúdo livre para uso pessoal, cite a fonte
 theme:
   name: material
   language: pt-BR
-  icon:
-    logo: material/radio-tower
-  favicon: assets/favicon.svg
+  logo: assets/brasao-icone.svg
+  favicon: assets/brasao-icone.svg
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate

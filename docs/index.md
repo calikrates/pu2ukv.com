@@ -5,9 +5,10 @@ hide:
 ---
 
 <div class="hero" markdown>
+<img class="hero-brasao" src="assets/img/brasao.png" alt="Brasão PU2UKV">
 <div class="hero-txt" markdown>
-<span class="hero-call">PU2UKV</span>
-<span class="hero-sub">caderneta de campo</span>
+<span class="hero-call">Caderneta de campo</span>
+<span class="hero-sub">Radioamadorismo · Overland · Camping</span>
 
 Rádio, estrada e acampamento — referência rápida para usar no meio do QSO ou na beira da trilha.
 
