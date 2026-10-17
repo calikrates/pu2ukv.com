@@ -1,11 +1,22 @@
 ---
 hide:
   - toc
+  - navigation
 ---
 
-# PU2UKV · caderneta de campo
+<div class="hero" markdown>
+<div class="hero-txt" markdown>
+<span class="hero-call">PU2UKV</span>
+<span class="hero-sub">caderneta de campo</span>
 
-Referência rápida de **radioamadorismo**, **overland** e **camping**: tabelas para consultar no meio do QSO, guias curtos e checklists de estrada.
+Rádio, estrada e acampamento — referência rápida para usar no meio do QSO ou na beira da trilha.
+
+[Repetidoras da região](radioamador/repetidoras.md){ .md-button .md-button--primary }
+[Código Q](radioamador/codigo-q.md){ .md-button }
+</div>
+</div>
+
+# O que tem aqui
 
 <div class="cards" markdown>
 
