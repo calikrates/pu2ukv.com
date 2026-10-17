@@ -51,8 +51,6 @@ hooks:
 
 extra_css:
   - stylesheets/extra.css
-extra_javascript:
-  - javascripts/filtro.js
 
 markdown_extensions:
   - admonition

@@ -2,7 +2,7 @@
 
 Na página, o marcador {{ tabela_repetidoras }} vira o painel de busca
 (seletor de região + raio) e os dados em JSON. O JavaScript
-(docs/javascripts/filtro.js) calcula as distâncias no navegador.
+(hooks/repetidoras.js, embutido na página) calcula as distâncias no navegador.
 Para atualizar: edite só o CSV e faça push.
 """
 import csv
@@ -10,6 +10,7 @@ import json
 from pathlib import Path
 
 CSV = Path(__file__).parent.parent / "data" / "repetidoras.csv"
+JS = Path(__file__).parent / "repetidoras.js"
 MARCADOR = "{{ tabela_repetidoras }}"
 
 
@@ -30,7 +31,6 @@ def _dados():
 
 
 def _painel():
-    dados = json.dumps(_dados(), ensure_ascii=False, separators=(",", ":"))
     return f"""<div id="rep-app" class="rep-app">
 <div class="rep-ctrl">
 <label>Região
@@ -51,11 +51,25 @@ def _painel():
 <tbody id="rep-corpo"></tbody>
 </table></div>
 </div>
-<script id="rep-dados" type="application/json">{dados}</script>
 """
+
+
+def _scripts():
+    dados = json.dumps(_dados(), ensure_ascii=False, separators=(",", ":"))
+    js = JS.read_text(encoding="utf-8")
+    return (f'<script id="rep-dados" type="application/json">{dados}</script>\n'
+            f"<script>\n{js}\n</script>\n")
 
 
 def on_page_markdown(markdown, page, config, files):
     if MARCADOR in markdown:
+        page.meta["_repetidoras"] = True
         return markdown.replace(MARCADOR, _painel())
     return markdown
+
+
+def on_post_page(output, page, config):
+    # Os scripts entram depois do Markdown já convertido, para não serem alterados.
+    if page.meta.get("_repetidoras"):
+        return output.replace("</body>", _scripts() + "</body>", 1)
+    return output
