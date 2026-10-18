@@ -51,6 +51,11 @@ Comunicação em comboio e em área sem celular.
 O que revisar e levar antes de pegar a estrada.
 </a>
 
+<a class="card" href="camping/campings/">
+<strong>:material-tent: Campings próximos</strong>
+Mapa com os campings perto de você, com rota pelo Google Maps.
+</a>
+
 </div>
 
 !!! tip "Use no celular"

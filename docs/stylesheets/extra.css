@@ -130,3 +130,25 @@
 .md-typeset .tabela-livre table:not([class]) td, .md-typeset .tabela-livre table:not([class]) th { white-space: normal; }
 .md-typeset .tabela-livre td:nth-child(2) { white-space: nowrap !important; }
 .md-typeset .capa-roteiro { max-height: 26rem; object-fit: cover; }
+
+/* ---------- Campings ---------- */
+.camp-form { display: flex; gap: .6rem; align-items: center; margin-top: 1rem; }
+.camp-form .filtro { margin: 0; flex: 1; }
+.md-typeset .camp-form .md-button { margin: 0; padding: .45em 1.2em; font-size: .75rem; }
+.camp-mapa { height: 26rem; border-radius: 10px; margin: .4rem 0 1rem; overflow: hidden;
+  border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-code-bg-color); z-index: 0; position: relative; }
+.camp-aviso { padding: 1rem; font-size: .8rem; }
+.md-typeset ul.camp-lista { list-style: none; margin: 0; padding: 0; display: grid; gap: .5rem; }
+.md-typeset ul.camp-lista li.camp-item { margin: 0; padding: .7rem .9rem; border-radius: 8px; cursor: pointer;
+  border: 1px solid var(--md-default-fg-color--lightest); background: var(--md-default-bg-color); }
+.camp-item:hover { border-color: var(--md-accent-fg-color) !important; }
+.camp-item.sem-nome { opacity: .7; }
+.camp-topo { display: flex; justify-content: space-between; gap: 1rem; font-size: .85rem; }
+.camp-dist { color: var(--md-accent-fg-color); font-weight: 700; white-space: nowrap; }
+.camp-info { font-size: .72rem; color: var(--md-default-fg-color--light); margin-top: .2rem; }
+.camp-tag { display: inline-block; font-size: .65rem; padding: .05rem .45rem; margin: .15rem .25rem 0 0; border-radius: 99px;
+  background: var(--md-accent-fg-color--transparent); color: var(--md-accent-fg-color); }
+.camp-acoes { font-size: .72rem; margin-top: .35rem; }
+.camp-rota { font-weight: 700; }
+.leaflet-popup-content { font-size: .75rem; }
+@media (max-width: 600px) { .camp-mapa { height: 20rem; } #camp-regiao { min-width: 100%; } }

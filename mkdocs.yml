@@ -49,10 +49,13 @@ nav:
           - Pico do Jaraguá · São Paulo: overland/roteiros/pico-do-jaragua.md
       - Rádio em trilha: overland/radio-em-trilha.md
       - Checklist de viagem 4x4: overland/checklist-4x4.md
+  - Camping:
+      - Campings próximos: camping/campings.md
   - Sobre: sobre.md
 
 hooks:
   - hooks/repetidoras.py
+  - hooks/campings.py
 
 extra_css:
   - stylesheets/extra.css
