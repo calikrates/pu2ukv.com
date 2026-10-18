@@ -22,8 +22,8 @@ A serra que já foi chamada de "a mais temível do Brasil": curvas de até 180 g
 
     **Antes de ir, confirme com a SIE/SC ou a Polícia Militar Rodoviária (198)** se a serra está aberta, em que horários e para quais veículos.
 
-<video class="video-roteiro" controls muted loop playsinline preload="metadata" poster="../../assets/img/corvo-branco/nuvens-poster.jpg">
-  <source src="../../assets/img/corvo-branco/nuvens.mp4" type="video/mp4">
+<video class="video-roteiro" controls muted loop playsinline preload="metadata" poster="../../../assets/img/corvo-branco/nuvens-poster.jpg">
+  <source src="../../../assets/img/corvo-branco/nuvens.mp4" type="video/mp4">
 </video>
 *As nuvens subindo pela encosta, vistas do alto da serra (vídeo sem som).*
 

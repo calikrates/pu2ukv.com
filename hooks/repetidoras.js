@@ -27,6 +27,7 @@
     ["Rio de Janeiro", -22.91, -43.20],
     ["Sul Fluminense (Volta Redonda)", -22.52, -44.10],
     ["Serra do Rio do Rastro (SC)", -28.39, -49.50],
+    ["Serra da Canastra (MG)", -20.25, -46.37],
     ["Curitiba", -25.43, -49.27],
   ];
 

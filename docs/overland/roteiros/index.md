@@ -40,6 +40,12 @@ Estrada-Parque 4x4 até a baía em forma de coração e camping no Canto da Lago
 O maior corte de rocha do Brasil, curvas de 180° e o espectro de Brocken. Em obras — confira antes.
 </a>
 
+<a class="card card-foto" href="serra-da-canastra/">
+<img src="../../assets/img/canastra/01-terez4-mirante-mini.jpg" alt="">
+<strong>:material-car-lifted-pickup: Serra da Canastra · MG</strong>
+Serra Branca, subida do Caminho do Céu, nascente do São Francisco e camping em São Roque de Minas.
+</a>
+
 </div>
 
 *Mais roteiros em breve.*

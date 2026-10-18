@@ -20,6 +20,8 @@ Escolha uma **região**, digite uma **cidade** ou use sua **localização**, e v
 !!! example "Camping que eu já fui"
     [Camping do Formiga, em Castelhanos (Ilhabela)](../overland/roteiros/castelhanos.md) — camping raiz em praia isolada, com relato, fotos e plano de rádio.
 
+    [Camping em São Roque de Minas (Serra da Canastra/MG)](../overland/roteiros/serra-da-canastra.md) — base para o parque e os trechos 4x4, com dicas de banheiro químico.
+
 ## Checklist rápido de camping
 
 - [ ] Reserva confirmada (fim de semana e feriado lotam)

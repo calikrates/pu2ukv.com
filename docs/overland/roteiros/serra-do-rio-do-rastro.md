@@ -19,8 +19,8 @@ A estrada mais sinuosa do Brasil: **cerca de 24 km e 284 curvas** ligando Lauro 
 
 </div>
 
-<video class="video-roteiro" controls muted loop playsinline preload="metadata" poster="../../assets/img/rio-do-rastro/mirante-poster.jpg">
-  <source src="../../assets/img/rio-do-rastro/mirante.mp4" type="video/mp4">
+<video class="video-roteiro" controls muted loop playsinline preload="metadata" poster="../../../assets/img/rio-do-rastro/mirante-poster.jpg">
+  <source src="../../../assets/img/rio-do-rastro/mirante.mp4" type="video/mp4">
 </video>
 *Do mirante, no alto da serra (vídeo sem som).*
 
