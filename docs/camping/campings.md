@@ -17,6 +17,9 @@ Escolha uma **região**, digite uma **cidade** ou use sua **localização**, e v
 !!! tip "Rádio no camping"
     Antes de ir, veja as [repetidoras da região](../radioamador/repetidoras.md) — escolha a mesma região e programe o HT. Em camping de serra, sem sinal de celular, o rádio vira o seu telefone.
 
+!!! example "Camping que eu já fui"
+    [Camping do Formiga, em Castelhanos (Ilhabela)](../overland/roteiros/castelhanos.md) — camping raiz em praia isolada, com relato, fotos e plano de rádio.
+
 ## Checklist rápido de camping
 
 - [ ] Reserva confirmada (fim de semana e feriado lotam)

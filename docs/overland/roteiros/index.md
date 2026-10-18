@@ -22,6 +22,12 @@ Platô de granito a ≈ 1.418 m, acesso de carro. O ponto alto para testar alcan
 Trilha a pé até o ponto mais alto da capital (≈ 1.135 m), ao lado das torres de TV.
 </a>
 
+<a class="card card-foto" href="castelhanos/">
+<img src="../../assets/img/castelhanos/01-baia-de-castelhanos-mini.jpg" alt="">
+<strong>:material-tent: Castelhanos · Ilhabela</strong>
+Estrada-Parque 4x4 até a baía em forma de coração e camping no Canto da Lagoa. Área sem celular.
+</a>
+
 </div>
 
 *Mais roteiros em breve.*
