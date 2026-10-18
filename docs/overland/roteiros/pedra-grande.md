@@ -68,7 +68,7 @@ Lista completa: [Repetidoras da região](../../radioamador/repetidoras.md) — e
 | Referência | Dist. · rumo | O que esperar |
 |---|---|---|
 | **Serra da Cantareira** | ≈ 33 km · Sul (≈ 195°) | O "corredor" para a capital; repetidoras altas e fortes |
-| **Pico do Jaraguá** (SP) | ≈ 42 km · Sudoeste (≈ 215°) | Em dias limpos, visível a olho nu; repetidoras do lado de SP |
+| **[Pico do Jaraguá](pico-do-jaragua.md)** (SP) | ≈ 42 km · Sudoeste (≈ 215°) | Em dias limpos, visível a olho nu; repetidoras do lado de SP |
 | **Osasco** | ≈ 51 km · Sudoeste (≈ 210°) | Bom desafio de simplex com a base em casa |
 | **Alto da Placa** (Cajamar) | ≈ 39 km · Sudoeste (≈ 235°) | Ponto alto a ponto alto: ver desafio abaixo |
 | **Bragança Paulista** | ≈ 21 km · Norte | Cidade logo abaixo, sinal fácil |

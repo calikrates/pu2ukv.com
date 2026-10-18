@@ -1,6 +1,6 @@
 # Roteiros
 
-Roteiros curtos e próximos, sempre com **plano de comunicação**: frequência do comboio, repetidoras de apoio e o que realmente funciona no rádio em cada ponto.
+Roteiros curtos e próximos — de carro ou a pé — sempre com **plano de comunicação**: frequência do comboio, repetidoras de apoio e o que realmente funciona no rádio em cada ponto.
 
 <div class="cards" markdown>
 
@@ -14,6 +14,12 @@ Off-road até o ponto mais alto de Cajamar (≈ 1.083 m). Nível médio, ≈ 23 
 <img src="../../assets/img/pedra-grande/02-plato-cidade-mini.jpg" alt="">
 <strong>:material-image-filter-hdr: Pedra Grande · Atibaia</strong>
 Platô de granito a ≈ 1.418 m, acesso de carro. O ponto alto para testar alcance de rádio.
+</a>
+
+<a class="card card-foto" href="pico-do-jaragua/">
+<img src="../../assets/img/pico-do-jaragua/03-panorama-mini.jpg" alt="">
+<strong>:material-hiking: Pico do Jaraguá · São Paulo</strong>
+Trilha a pé até o ponto mais alto da capital (≈ 1.135 m), ao lado das torres de TV.
 </a>
 
 </div>

@@ -88,7 +88,7 @@ Do Alto da Placa (≈ 1.083 m), as referências de rádio da região, com distâ
 
 | Referência | Dist. · rumo | O que esperar |
 |---|---|---|
-| **Pico do Jaraguá** (SP) | ≈ 16 km · Sudeste (≈ 150°) | Visada aberta para a capital; boas chances com repetidoras do lado de SP (ex.: 439.050) |
+| **[Pico do Jaraguá](pico-do-jaragua.md)** (SP) | ≈ 16 km · Sudeste (≈ 150°) | Visada aberta para a capital; boas chances com repetidoras do lado de SP (ex.: 439.050) |
 | **Serra da Cantareira** | ≈ 24 km · Leste (≈ 115°) | Repetidoras altas (147.270 / 147.030); o apoio mais provável |
 | **Serra do Japi / Jundiaí** | ≈ 16 km · Noroeste (≈ 320°) | 438.500 e 147.300 (DMR) |
 | **Pirapora do Bom Jesus** · vale do Tietê | ≈ 16 km · Sudoeste (≈ 245°) | Vale encaixado: **sombra de rádio** para quem estiver lá embaixo |
