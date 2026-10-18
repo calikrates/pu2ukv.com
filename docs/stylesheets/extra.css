@@ -153,3 +153,22 @@
 .leaflet-popup-content { font-size: .75rem; }
 @media (max-width: 600px) { .camp-mapa { height: 20rem; } #camp-regiao { min-width: 100%; } }
 .md-typeset .video-roteiro { width: 100%; border-radius: 12px; margin: 1rem 0 .2rem; background: #000; box-shadow: 0 6px 24px rgba(0,0,0,.3); }
+
+/* ---------- Consulta de indicativos ---------- */
+.ind-card { margin-top: 1rem; padding: 1rem 1.2rem; border-radius: 10px; background: var(--md-default-bg-color);
+  border: 1px solid var(--md-default-fg-color--lightest); border-left: 4px solid var(--md-accent-fg-color); }
+.ind-call { font-size: 1.8rem; font-weight: 800; letter-spacing: .08em; color: var(--md-accent-fg-color); font-family: var(--md-code-font-family); }
+.ind-extra { font-size: 1.1rem; opacity: .7; }
+.ind-titulo { font-weight: 700; margin: .1rem 0 .6rem; }
+.ind-card dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; margin: 0; font-size: .8rem; }
+.ind-card dt { color: var(--md-default-fg-color--light); }
+.md-typeset .ind-card dd { margin: 0; }
+.ind-alerta { color: #e86a8a; font-size: .78rem; margin: .5rem 0 0; }
+.ind-nota { font-size: .75rem; margin: .5rem 0 0; color: var(--md-default-fg-color--light); }
+.ind-sub { font-size: .75rem; margin: 1rem 0 .4rem; color: var(--md-default-fg-color--light); }
+.ind-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr)); gap: .5rem; }
+.md-typeset .ind-links a { display: block; padding: .6rem .8rem; border-radius: 8px; font-size: .75rem;
+  border: 1px solid var(--md-default-fg-color--lightest); color: var(--md-default-fg-color); }
+.md-typeset .ind-links a:hover { border-color: var(--md-accent-fg-color); }
+.ind-links strong { display: block; color: var(--md-accent-fg-color); }
+.ind-links span { color: var(--md-default-fg-color--light); }

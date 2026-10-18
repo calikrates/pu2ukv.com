@@ -41,6 +41,7 @@ nav:
       - Alfabeto fonético e Morse: radioamador/alfabeto-fonetico.md
       - Repetidoras da região: radioamador/repetidoras.md
       - Programar o HT: radioamador/programar-ht.md
+      - Consulta de indicativos: radioamador/indicativos.md
   - Overland:
       - Roteiros:
           - overland/roteiros/index.md
@@ -59,6 +60,7 @@ nav:
 hooks:
   - hooks/repetidoras.py
   - hooks/campings.py
+  - hooks/indicativos.py
 
 extra_css:
   - stylesheets/extra.css

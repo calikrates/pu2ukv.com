@@ -56,6 +56,11 @@ O que revisar e levar antes de pegar a estrada.
 Mapa com os campings perto de você, com rota pelo Google Maps.
 </a>
 
+<a class="card" href="radioamador/indicativos/">
+<strong>:material-card-account-details-outline: Consulta de indicativos</strong>
+Classe, estado e perfis do operador a partir do indicativo.
+</a>
+
 </div>
 
 !!! tip "Use no celular"
