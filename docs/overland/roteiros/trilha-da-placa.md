@@ -129,6 +129,9 @@ Só radioamadores licenciados podem transmitir nas faixas de radioamador. Se no 
 !!! danger "Raios no topo"
     O Alto da Placa é o ponto mais alto da região e tem uma grande estrutura metálica. **Com tempo fechado e trovoada, desça** e não opere rádio com antena externa no topo.
 
+!!! example "Desafio"
+    Daqui até a [Pedra Grande, em Atibaia](pedra-grande.md#desafio-placa-pedra-grande-em-simplex) são ≈ 39 km entre dois pontos altos. Com um carro em cada topo, dá para tentar o QSO em simplex.
+
 ## Teste de rádio na trilha
 
 Este é o diferencial do roteiro: um registro do que **realmente abre** em cada ponto. A cada visita, eu atualizo a tabela.
