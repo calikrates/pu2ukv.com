@@ -1,6 +1,6 @@
 # Roteiros
 
-Roteiros curtos e próximos — de carro ou a pé — sempre com **plano de comunicação**: frequência do comboio, repetidoras de apoio e o que realmente funciona no rádio em cada ponto.
+Roteiros perto de casa e viagens mais longas — de carro ou a pé — sempre com **plano de comunicação**: frequência do comboio, repetidoras de apoio e o que realmente funciona no rádio em cada ponto.
 
 <div class="cards" markdown>
 
@@ -26,6 +26,12 @@ Trilha a pé até o ponto mais alto da capital (≈ 1.135 m), ao lado das torres
 <img src="../../assets/img/castelhanos/01-baia-de-castelhanos-mini.jpg" alt="">
 <strong>:material-tent: Castelhanos · Ilhabela</strong>
 Estrada-Parque 4x4 até a baía em forma de coração e camping no Canto da Lagoa. Área sem celular.
+</a>
+
+<a class="card card-foto" href="serra-do-rio-do-rastro/">
+<img src="../../assets/img/rio-do-rastro/04-terez4-e-a-serra-mini.jpg" alt="">
+<strong>:material-road-variant: Serra do Rio do Rastro · SC</strong>
+284 curvas da SC-390 até ≈ 1.460 m, mirantes, camping e vídeo do alto da serra.
 </a>
 
 </div>

@@ -21,6 +21,7 @@
     ["Paraty (RJ)", -23.22, -44.71],
     ["Sul de Minas (Monte Verde)", -22.86, -46.04],
     ["Vale do Ribeira (Registro / Petar)", -24.49, -47.84],
+    ["Serra do Rio do Rastro (SC)", -28.39, -49.50],
     ["Curitiba (PR)", -25.43, -49.27],
     ["Rio de Janeiro", -22.91, -43.20],
   ];

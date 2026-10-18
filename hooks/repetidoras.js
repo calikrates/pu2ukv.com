@@ -26,6 +26,7 @@
     ["Itapeva / Sudoeste Paulista", -23.98, -48.88],
     ["Rio de Janeiro", -22.91, -43.20],
     ["Sul Fluminense (Volta Redonda)", -22.52, -44.10],
+    ["Serra do Rio do Rastro (SC)", -28.39, -49.50],
     ["Curitiba", -25.43, -49.27],
   ];
 
