@@ -1,0 +1,9 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,COMBOI,145.500000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,Simplex do comboio - exemplo combine com o grupo,,,,
+2,CANTAR,147.270000,+,0.600000,Tone,67.0,88.5,023,NN,FM,5.00,,PY2KNF Serra da Cantareira,,,,
+3,CABREU,145.270000,-,0.600000,Tone,123.0,88.5,023,NN,FM,5.00,,PY2KSC Cabreuva,,,,
+4,LABRE,146.610000,-,0.600000,Tone,123.0,88.5,023,NN,FM,5.00,,PY2KBX Itapecerica LABRE-SP,,,,
+5,CAIEIR,439.650000,-,5.000000,Tone,123.0,88.5,023,NN,FM,5.00,,PY2KPE Caieiras,,,,
+6,JUNDIA,438.500000,-,5.000000,Tone,74.4,88.5,023,NN,FM,5.00,,PY2KET Jundiai,,,,
+7,APRS,145.570000,,0.000000,,88.5,88.5,023,NN,FM,5.00,S,APRS Brasil - so recepcao/TNC,,,,
+8,JARAGU,439.050000,-,5.000000,Tone,67.0,88.5,023,NN,FM,5.00,,PY2KRB Taipas - Pico do Jaragua,,,,

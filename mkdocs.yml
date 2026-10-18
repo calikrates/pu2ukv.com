@@ -28,6 +28,7 @@ theme:
     - navigation.sections
     - navigation.top
     - navigation.footer
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.code.copy
@@ -41,6 +42,9 @@ nav:
       - Repetidoras da região: radioamador/repetidoras.md
       - Programar o HT: radioamador/programar-ht.md
   - Overland:
+      - Roteiros:
+          - overland/roteiros/index.md
+          - Trilha da Placa · Cajamar: overland/roteiros/trilha-da-placa.md
       - Rádio em trilha: overland/radio-em-trilha.md
       - Checklist de viagem 4x4: overland/checklist-4x4.md
   - Sobre: sobre.md
