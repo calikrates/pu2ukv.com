@@ -34,6 +34,12 @@ Estrada-Parque 4x4 até a baía em forma de coração e camping no Canto da Lago
 284 curvas da SC-390 até ≈ 1.460 m, mirantes, camping e vídeo do alto da serra.
 </a>
 
+<a class="card card-foto" href="serra-do-corvo-branco/">
+<img src="../../assets/img/corvo-branco/01-corte-e-vale-mini.jpg" alt="">
+<strong>:material-image-filter-hdr: Serra do Corvo Branco · SC</strong>
+O maior corte de rocha do Brasil, curvas de 180° e o espectro de Brocken. Em obras — confira antes.
+</a>
+
 </div>
 
 *Mais roteiros em breve.*

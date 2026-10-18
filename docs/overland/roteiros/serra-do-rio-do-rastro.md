@@ -43,6 +43,7 @@ A serra começou como **trilha de tropeiros**, virou estrada de terra nos anos 1
 - **Mirante da Serra** (≈ 1.460 m): a parada clássica. Em dia limpo, a vista alcança a planície até o litoral.
 - **Cânion da Ronda**: a poucos quilômetros do início da serra, perto do parque eólico — as torres de vento no meio do campo de altitude rendem fotos incríveis.
 - **Tenda da Lili**, em Bom Jardim da Serra: parada para produtos da serra.
+- **[Serra do Corvo Branco](serra-do-corvo-branco.md)**, a ≈ 40 km, perto de Urubici — o outro clássico da serra catarinense.
 - Leve **agasalho mesmo no verão** — no alto faz frio, e no inverno pode gear e até nevar.
 
 ## Embaixo: os mirantes do pé da serra
