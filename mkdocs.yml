@@ -6,6 +6,7 @@ copyright: 73 de PU2UKV
 theme:
   name: material
   language: pt-BR
+  custom_dir: overrides
   logo: assets/brasao-icone.svg
   favicon: assets/brasao-icone.svg
   palette:
