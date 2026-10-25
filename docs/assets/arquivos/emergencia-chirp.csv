@@ -1,0 +1,4 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+1,EMERG2M,146.520000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,Chamada e emergencia nacional VHF simplex (LABRE),,,,
+2,RENER70,439.000000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,RENER UHF simplex (Portaria MI 331/2009),,,,
+3,MAR16,156.800000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,Maritimo canal 16 - SO ESCUTA (nao e faixa de radioamador),,,,

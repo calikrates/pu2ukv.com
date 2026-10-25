@@ -61,6 +61,11 @@ Mapa com os campings perto de você, com rota pelo Google Maps.
 Classe, estado e perfis do operador a partir do indicativo.
 </a>
 
+<a class="card" href="radioamador/emergencia/">
+<strong>:material-alarm-light-outline: Frequências de emergência</strong>
+Onde escutar e chamar quando o celular cai — VHF, HF, PX e mais.
+</a>
+
 </div>
 
 !!! tip "Use no celular"

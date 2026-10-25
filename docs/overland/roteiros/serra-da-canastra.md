@@ -18,7 +18,7 @@ A Canastra é um clássico do off-road brasileiro: chapadão de campos abertos, 
 
 </div>
 
-## Descendo a Serra Branca
+## O vídeo da subida
 
 <video class="video-roteiro video-vertical" controls muted loop playsinline preload="metadata" poster="../../../assets/img/canastra/comboio-poster.jpg">
   <source src="../../../assets/img/canastra/comboio.mp4" type="video/mp4">
