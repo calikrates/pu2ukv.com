@@ -64,6 +64,8 @@ hooks:
   - hooks/repetidoras.py
   - hooks/campings.py
   - hooks/indicativos.py
+  - hooks/social.py
+  - hooks/mapa_roteiros.py
 
 extra_css:
   - stylesheets/extra.css

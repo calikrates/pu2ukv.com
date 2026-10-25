@@ -1,0 +1,12 @@
+{% extends "main.html" %}
+
+{% block content %}
+  <h1>Sinal perdido · QRT</h1>
+  <p>Esta página não existe ou mudou de lugar. Use a <strong>busca</strong> no topo ou siga por um destes caminhos:</p>
+  <div class="cards">
+    <a class="card" href="{{ config.site_url }}"><strong>Início</strong>Volta para a página principal.</a>
+    <a class="card" href="{{ config.site_url }}radioamador/repetidoras/"><strong>Repetidoras</strong>Busca por região e raio.</a>
+    <a class="card" href="{{ config.site_url }}overland/roteiros/"><strong>Roteiros</strong>Viagens com plano de rádio.</a>
+    <a class="card" href="{{ config.site_url }}radioamador/emergencia/"><strong>Emergência</strong>Frequências para chamar socorro.</a>
+  </div>
+{% endblock %}

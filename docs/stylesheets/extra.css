@@ -174,3 +174,10 @@
 .ind-links span { color: var(--md-default-fg-color--light); }
 /* Vídeo em pé (celular): não ocupa a tela inteira no computador */
 .md-typeset .video-roteiro.video-vertical { display: block; width: auto; max-width: 100%; max-height: 80vh; margin-left: auto; margin-right: auto; aspect-ratio: 9 / 16; }
+
+/* ---------- Mapa dos roteiros ---------- */
+.md-typeset a.rot-pop { display: block; color: inherit; text-decoration: none; width: 200px; }
+.md-typeset a.rot-pop img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px; margin-bottom: .3rem; }
+.md-typeset a.rot-pop strong { display: block; color: #b5462f; font-size: .8rem; }
+.md-typeset a.rot-pop span { display: block; font-size: .72rem; color: #444; }
+.rot-mapa .leaflet-popup-content { margin: .6rem; }

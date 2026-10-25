@@ -2,6 +2,14 @@
 
 Roteiros perto de casa e viagens mais longas — de carro ou a pé — sempre com **plano de comunicação**: frequência do comboio, repetidoras de apoio e o que realmente funciona no rádio em cada ponto.
 
+## Onde a TeRez4 já foi
+
+Toque em um ponto para abrir o roteiro.
+
+{{ mapa_roteiros }}
+
+## Todos os roteiros
+
 <div class="cards" markdown>
 
 <a class="card card-foto" href="trilha-da-placa/">
